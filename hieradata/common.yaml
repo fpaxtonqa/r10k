@@ -1,0 +1,2 @@
+pe_r10k::cachedir: /opt/r10k/cache
+pe_r10k::remote: https://github.com/fpaxtonqa/r10k.git
