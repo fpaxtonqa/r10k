@@ -1,3 +1,3 @@
 mod 'gitversion',
-  :git => 'https://github.com/fpaxtonqa/r10k/gitversion/'
+  :git => 'https://github.com/fpaxtonqa/r10k/gitversion/',
   :branch => 'git'
